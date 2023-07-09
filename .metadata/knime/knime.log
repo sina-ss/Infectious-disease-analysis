@@ -1,0 +1,6 @@
+2023-07-09 11:30:25,229 : WARN  : main :  : LongStartupHandler :  :  : Startup took 94317 seconds.
+2023-07-09 12:27:49,189 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-07-09 12:27:53,504 : WARN  : main :  : Node : Excel Reader : 3:2 : The node configuration changed and the table spec will be recalculated during execution.
+2023-07-09 12:28:00,039 : WARN  : main :  : Node : Excel Reader : 3:3 : The node configuration changed and the table spec will be recalculated during execution.
+2023-07-09 12:28:28,014 : WARN  : main :  : Node : Excel Reader : 3:4 : The node configuration changed and the table spec will be recalculated during execution.
+2023-07-09 12:28:32,682 : WARN  : main :  : Node : Excel Reader : 3:5 : The node configuration changed and the table spec will be recalculated during execution.

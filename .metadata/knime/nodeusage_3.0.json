@@ -1,0 +1,33 @@
+
+{
+    "version": "4.7.5.v202306300839",
+    "created": "2023-07-09 11:19",
+    "nodestats": {
+        "nodes": [
+            {
+                "id": "org.knime.ext.poi3.node.io.filehandling.excel.reader.ExcelTableReaderNodeFactory#Excel Reader",
+                "nrexecs": 6,
+                "nrfails": 0,
+                "exectime": 2689,
+                "nrcreated": 0,
+                "successor": "n/a"
+            }
+        ],
+        "metaNodes": {
+        },
+        "wrappedNodes": {
+        }
+    },
+    "uptime": 2378014,
+    "workflowsOpened": 1,
+    "remoteWorkflowsOpened": 0,
+    "columnarStorageWorkflowsOpened": 0,
+    "workflowsImported": 0,
+    "workflowsExported": 0,
+    "webUIPerspectiveSwitches": 0,
+    "launches": 2,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 4756029,
+    "crashes": 0,
+    "properlyShutDown": true
+}
